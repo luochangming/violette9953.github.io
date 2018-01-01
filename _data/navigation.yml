@@ -1,25 +1,25 @@
 # Site navigation links
 
-- title: 作品集
+- title: 信息可视化作品集
   url: https://public.tableau.com/profile/.27038583#!/
-  excerpt: "大二第一学期以来的作品"
+  excerpt: "tableau作品"
   image: learning_teaching.gif
 
 
-- title: 学习笔记
+- title: 网页设计作品集
   url: /i18nl10n/
-  excerpt: "看不懂的学习笔记"
+  excerpt: "关于网页设计与制作的作品集"
   image: Tower_of_Babel.jpg
 
 
-- title: svg
+- title: 网页设计与制作学习笔记
   url: /SDG/
-  excerpt: "最喜欢的SVG学习"
+  excerpt: "最喜欢的SVG学习笔记"
   image: 300x200.gif
 
 
 
-- title: Contact 联络我
-  url: /contact/
-  excerpt: "联络我"
+- title: 信息可视化学习笔记
+  url: 
+  excerpt: 
   image: Pigeon_post.jpg
