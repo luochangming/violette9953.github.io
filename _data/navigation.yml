@@ -5,15 +5,19 @@
   excerpt: "大二第一学期以来的作品"
   image: learning_teaching.gif
 
+
 - title: 学习笔记
   url: /i18nl10n/
   excerpt: "看不懂的学习笔记"
   image: Tower_of_Babel.jpg
 
+
 - title: svg
   url: /SDG/
   excerpt: "最喜欢的SVG学习"
   image: 300x200.gif
+
+
 
 - title: Contact 联络我
   url: /contact/
