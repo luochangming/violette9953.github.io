@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "hanteng.github.io 開展個人學習網絡"
-description: "在更遼闊的（全球資訊網）世界感覺更自在地體驗及學習"
+title: "violette 吴栩 个人博客"
+description: "在更辽阔的世界学习与体验HTML的美好"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: zh_TW # 本地化翻譯
@@ -17,7 +17,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+highlighter: blue
 gems:
   - jekyll-sitemap
   - jekyll-gist
@@ -26,19 +26,19 @@ gems:
 
 # Site owner
 owner:
-  name: hanteng
-  email: hantengliao@qq.com
-  twitter: hanteng
+  name: violette
+  email: 1499262011@qq.com
+  twitter: violete
   google:
     ad-client:
     ad-slot:
-  bio: "廖汉腾，副教授（网络与新媒体专业） 中山大学南方学院 新媒体研究中心代理主任 ，开设课程：《网络新媒体技术与协作》、《信息可视化设计》、《大数据统计》、《Python语言》、《网页设计与制作》、《网站运营与管理实践》等。"
+  bio: "吴栩 中山大学南方学院学生 什么都懵逼系列"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
 include:
-  - .htaccess
+  - .wxaccess
 exclude:
   - "*.less"
   - "*.sublime-project"
