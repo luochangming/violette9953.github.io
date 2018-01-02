@@ -1,28 +1,47 @@
 ---
 layout: article
-title:  "可裝GitHub Desktop"
-date:   2017-12-01 22:07:50 +0800
-categories: notes_tech Jekyll
+title:  "响应式web设计基础"
+date:   2018-1-02 22:07:50 +0800
+categories: (基于HTML5和CSS3的)响应式Web设计就是网页内容会随着访问它的视口及设备的不同而呈现不同的样式。
+
 image:
   teaser: github-desktop-icon.svg
   feature: github-desktop-icon.svg
 ---
-欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
+利用弹性网格布局、弹性图片／媒体、媒体查询等技术实现
 
-## 怎样裝 GitHub Desktop？
+## 资源工具箱
 
-現在2017年年底的情境下，在中國的網絡環境裝 `GitHub Desktop`，有時會考驗著所在地區的網路速度和安裝人的人品。
+·https://CanIuse.com
+svg
+motion
 
-- 註冊一個免費去[Github 官网][Github官网] 注册( `Sign Up` )一个账号，账号名請選你打算行走世界的名號，先佔先有
-- 去 [GitHub Desktop][GitHub_Desktop] 頁面下載客戶端 
+·http://gs.statcounter.com
+Mobile vs Tablet vs Desktop
+Screen Resolution Stats
+Browser Market Share
 
-若從官網下載不了，可搜索較新的離線安裝版本，或找朋友們試試。
+·detect
 
-## 怎样使用 GitHub？
+工具
+Chrome开发者工具（简称DevTools）
 
-在知乎上有[一个文科妹子分享了其半年摸索才明白的經驗][文科妹子用GitHub]，可以參考。
+Chrome DevTools中文手册
+https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html
 
 
-[GitHub_Desktop]: https://desktop.github.com/
-[Github官网]: https://github.com/
-[文科妹子用GitHub]: https://www.zhihu.com/question/20070065 
+## HTML5全新语义元素
+
+W3SCHOOL有关于html语义元素等相关的一切教程。可点击下面网址学习。
+http://www.w3school.com.cn/
+
+## 相关学习网址
+
+http://gs.statcounter.com/browser-market-share/all/china
+https://www.zhihu.com/question/28831274
+https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools
+https://www.gitbook.com/book/leeon/devtools/details
+https://www.w3cplus.com/tools/how-to-use-chrome-devtools-like-a-pro.html
+http://wiki.jikexueyuan.com/project/chrome-devtools/remote-debugging-on-android.html
+http://www.jianshu.com/p/cf36d48652f4
+https://caniuse.com/#search=motion
