@@ -1,25 +1,25 @@
 # Site navigation links
 
 - title: 信息可视化作品集
-  url: https://violette9953.github.io/_posts/infovis
+  url: /posts/infovis/
   excerpt: "J组期中作品"
   image: learning_teaching.gif
 
 
 - title: 网页设计作品集
-  url: https://violette9953.github.io/_posts/rwd
+  url: /posts/rwd/
   excerpt: "关于网页设计与制作的作品集"
   image: Tower_of_Babel.jpg
 
 
 - title: 网页设计与制作学习笔记
-  url: https://violette9953.github.io/_posts/infois
+  url: /posts/infois/
   excerpt: "最喜欢的SVG学习笔记"
   image: 300x200.gif
 
 
 
 - title: 信息可视化学习笔记
-  url: https://violette9953.github.io/portfolio
+  url: /portfolio/
   excerpt: 
   image: Pigeon_post.jpg
