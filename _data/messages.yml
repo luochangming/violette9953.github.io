@@ -45,7 +45,7 @@ locales:
     <<: *DEFAULT_ZH    # load English values as default
     overview: "總覽"
     toc: "list"
-    written_by: "小桂香"
+    written_by: "violette"
     updated: "更新日期："
     share: "分享"
   zh_TW:
