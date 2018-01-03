@@ -1,0 +1,12 @@
+# 做的第一个tableau作品
+< img border="0" src="/images/第一个tableau作品.jpg" >
+
+# 期中项目
+* J小组作品 中国地震数据图
+< img border="0" src="/images/qz.jpg" >
+
+< img border="0" src="/images/qz1.jpg" >
+
+< img border="0" src="/images/qz2.jpg" >
+
+< img border="0" src="/images/qz3.jpg" >
