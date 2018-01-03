@@ -1,3 +1,15 @@
+---
+layout: article
+title:  "tableau作品"
+date:  2018-1-3 21:32:29 +0800
+categories: infovis tableau
+image:
+  teaser: Jekyll_skinny_bones.jpg
+  feature: Jekyll_skinny_bones.jpg
+---
+
+{% include toc.html %}
+
 # 做的第一个tableau作品
 < img border="0" src="/images/第一个tableau作品.jpg" >
 
