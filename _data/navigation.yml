@@ -1,25 +1,19 @@
 # Site navigation links
 
 - title: 信息可视化作品集
-  url: /posts/infovis/
-  excerpt: "J组期中作品"
+  url: /infovis/
+  excerpt: "信息可视化作品集"
   image: learning_teaching.gif
 
 
 - title: 网页设计作品集
-  url: /posts/rwd/
-  excerpt: "关于网页设计与制作的作品集"
+  url: /portfolio/
+  excerpt: "网页设计与制作的作品集"
   image: Tower_of_Babel.jpg
 
 
-- title: 网页设计与制作学习笔记
-  url: /posts/infois/
-  excerpt: "最喜欢的SVG学习笔记"
+- title: 学习笔记
+  url: /posts/
+  excerpt: "我的学习笔记"
   image: 300x200.gif
 
-
-
-- title: 信息可视化学习笔记
-  url: /portfolio/
-  excerpt: 
-  image: Pigeon_post.jpg
